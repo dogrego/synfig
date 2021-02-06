@@ -1,0 +1,70 @@
+lipsync version 1
+ufo.wav
+24
+138
+1
+	UFO
+	I claim this planet in the name of Mars!|Hmm. Isn't that lovely? Hmm.
+	2
+		I claim this planet in the name of Mars!
+		0
+		69
+		9
+			I 0 2 1
+				0 AI
+			claim 3 9 4
+				3 etc
+				5 L
+				7 E
+				8 MBP
+			this 10 17 3
+				10 etc
+				13 AI
+				15 etc
+			planet 18 26 6
+				18 MBP
+				20 L
+				21 AI
+				23 L
+				24 AI
+				26 etc
+			in 27 30 2
+				27 AI
+				29 L
+			the 31 34 2
+				31 etc
+				33 AI
+			name 35 40 3
+				35 L
+				37 E
+				39 MBP
+			of 41 44 2
+				41 AI
+				43 FV
+			Mars! 45 69 4
+				45 MBP
+				51 AI
+				58 etc
+				64 etc
+		Hmm. Isn't that lovely? Hmm.
+		75
+		134
+		5
+			Hmm. 75 87 1
+				75 MBP
+			Isn't 88 95 3
+				88 AI
+				91 etc
+				93 MBP
+			that 96 101 3
+				96 etc
+				98 AI
+				100 etc
+			lovely? 102 118 5
+				102 L
+				105 AI
+				109 FV
+				112 L
+				116 E
+			Hmm. 119 134 1
+				119 MBP
