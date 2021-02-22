@@ -4,9 +4,9 @@
 
 ## EN
 ### Aim of the module
-To learn the process and concepts of animation, to create simple animations by changing the size, color, shape and location of objects and syncronizing audio with mouth movements in Synfig Studio and in Papagayo.
+To learn the process and concepts of animation, to create simple animations by changing the size, color, shape and location of objects and synchronizing audio with mouth movements in Synfig Studio and in Papagayo.
 
-### Recomended prior knowledge
+### Recommended prior knowledge
 - Basic computer skills
 
 ### Tools
@@ -14,7 +14,7 @@ To learn the process and concepts of animation, to create simple animations by c
 - mouse
 - drawing tablet (not necessary)
 
-### Get the latest stable verion of the programs:
+### Get the latest stable version of the programs:
 - [Synfig Studio](https://synfig.org) for 2D animation
 - [Papagayo](https://gumroad.com/l/papagayo-ng) for lip syncing
 
@@ -31,6 +31,6 @@ Az animálás folyamatának és fogalmainak megismerése, egyszerű animációk 
 - egér
 - digitális rajztábla (nem kötelező)
 
-### Szerezd meg a legutolsó stabil veziót a következő programokból:
+### Szerezd meg a legutolsó stabil verziót a következő programokból:
 - [Synfig Studio](https://synfig.org) a 2D animáláshoz
 - [Papagayo](https://gumroad.com/l/papagayo-ng) a szájmozgásokhoz
