@@ -1,7 +1,7 @@
 # Sétálás
 
 ## Feladat
-A karakter desig feladatban elkészített oldalnézeti karaktert animáld meg, hogy a kép egyik oldaláról a másikra sétáljon, fusson vagy épp ugráljon!
+A karakter design feladatban elkészített oldalnézeti karaktert animáld meg úgy, hogy a kép egyik oldaláról a másikra sétáljon, fusson vagy épp ugráljon!
 
 ## Segédanyag
 synfig-handout-hu-2
